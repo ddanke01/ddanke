@@ -1059,3 +1059,9 @@ GRANT ALL PRIVILEGES ON *.* TO 'appuser'@'%';
 FLUSH PRIVILEGES;
 ```
 
+### 程序部署笔记
+
+```
+测试
+```
+
